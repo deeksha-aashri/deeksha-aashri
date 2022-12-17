@@ -6,9 +6,9 @@
 <img src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif" /> </p>
 
 
-- 🌱 I’m currently learning **aws **
+- 🌱 I’m currently learning **aws**
 
-- 💬 Ask me about **JavaScript, Java, MongoDB, Express, React.js, Node.js **
+- 💬 Ask me about **JavaScript, Java, MongoDB, Express, React.js, Node.js**
 
 - 📫 How to reach me **deekshaaashri1@gmail.com**
 
