@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Deeksha Aashri</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="center" width="400px" height="400px"> 
 <img src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif" /> </p>
