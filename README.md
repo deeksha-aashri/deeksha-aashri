@@ -6,7 +6,7 @@
 <img src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif" /> </p>
 
 
-- 🌱 I’m currently learning **aws**
+- 🌱 I’m currently learning **aws, GCP**
 
 - 💬 Ask me about **JavaScript, Java, MongoDB, Express, React.js, Node.js**
 
